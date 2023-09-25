@@ -1,0 +1,20 @@
+.list input {
+    width: 100%;
+    
+}
+.list ul li {
+    list-style-type: none;
+    color:  white;
+
+}
+.name-phone-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+ul,li {
+    margin: 0;
+    padding: 0;
+}
